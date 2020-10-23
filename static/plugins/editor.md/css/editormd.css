@@ -56,7 +56,7 @@
   -ms-appearance: none;
   appearance: none;
 }
-.editormd ::-webkit-scrollbar {
+/* .editormd ::-webkit-scrollbar {
   height: 10px;
   width: 7px;
   background: rgba(0, 0, 0, 0.1);
@@ -71,20 +71,15 @@
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
   border-radius: 6px;
-}
-.editormd ::-webkit-scrollbar-thumb:hover {
+} */
+/* .editormd ::-webkit-scrollbar-thumb:hover {
   -webkit-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.25);
-  /* Webkit browsers */
   -moz-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.25);
-  /* Firefox */
   -ms-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.25);
-  /* IE9 */
   -o-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.25);
-  /* Opera(Old) */
   box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.25);
-  /* IE9+, News */
   background-color: rgba(0, 0, 0, 0.4);
-}
+} */
 
 .editormd-user-unselect {
   -webkit-user-select: none;
@@ -4043,7 +4038,7 @@ li.L3,
 li.L5,
 li.L7,
 li.L9 {
-  background: #eee;
+  /* background: #eee; */
 }
 
 .editormd-preview-container pre.prettyprint, .editormd-html-preview pre.prettyprint {
@@ -4337,7 +4332,7 @@ hr.editormd-page-break {
   color: #999;
 }
 .editormd-preview-theme-dark li.L1, .editormd-preview-theme-dark li.L3, .editormd-preview-theme-dark li.L5, .editormd-preview-theme-dark li.L7, .editormd-preview-theme-dark li.L9 {
-  background: none;
+  /* background: none; */
 }
 .editormd-preview-theme-dark [class*=editormd-logo] {
   color: #2196F3;

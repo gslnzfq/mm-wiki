@@ -3327,7 +3327,7 @@ li.L3,
 li.L5,
 li.L7,
 li.L9 {
-  background: #eee;
+  /* background: #eee; */
 }
 
 .editormd-preview-container pre.prettyprint, .editormd-html-preview pre.prettyprint {
