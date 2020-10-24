@@ -5,7 +5,8 @@ html {
 body {
     height: 100%;
     overflow-x: hidden;
-    font-family: "Microsoft YaHei","MicrosoftJhengHei",STHeiti,MingLiu;
+    /* font-family: "Microsoft YaHei","MicrosoftJhengHei",STHeiti,MingLiu; */
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     font-size: 13px;
     color: #444;
     line-height:15px;
